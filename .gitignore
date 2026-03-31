@@ -1,0 +1,16 @@
+# R session artefacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# SQLite and local runtime data
+data/*.sqlite
+*.sqlite
+
+# Caches
+cache/
+.tmp/
+
+# OS/editor noise
+.DS_Store
+.vscode/
